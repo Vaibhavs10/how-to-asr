@@ -9,6 +9,10 @@ Collection of notebooks to build Speech Recognition models the easy way! <3
 2. Fine-tune your ASR model (Wav2Vec2)
 3. Package your ASR model into a web-app
 
+## Intersted in building more such cool Gradio apps and demos?
+We're running a Gradio hackathon in collaboration with Hugging Face: https://huggingface.co/EuroSciPy2022
+Catch me around during the conference if you need help or want some support :) 
+
 ## Further reading
 1. XLSR-Wav2Vec2 paper - https://arxiv.org/abs/2006.13979
 2. Build CTC & Seq2Seq ASR models - [Transformers examples repo](https://github.com/huggingface/transformers/tree/main/examples/pytorch/speech-recognition#connectionist-temporal-classification-without-language-model-ctc-wo-lm)
